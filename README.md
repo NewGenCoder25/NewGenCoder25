@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NewGenCoder25
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python, Html, Css, JavaScript, Kotlin
+- 👀 I’m interested in Software Developemnt
+- 🌱 I’m currently learning Python, C++, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mail me:- hhdamame.27@gmail.com
 
